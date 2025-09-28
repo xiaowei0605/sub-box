@@ -17,8 +17,8 @@ assets = { directory = ".open-next/assets", binding = "ASSETS" }
 # Modify these to use the correct environment variables
 [vars]
 ADMIN_USERNAME = "admin"
-ADMIN_PASSWORD = "mihomo-admin-weizhe" # Change this to a secure password
-JWT_SECRET = "mgUEmTtSid8zo7z8rX2pQ5qecaj2LtC9" # Change this to a secure secret key
+ADMIN_PASSWORD = "weizhe5210/*" # Change this to a secure password
+JWT_SECRET = "BCODv8XeYy07pFIN7vUtT" # Change this to a secure secret key
 SESSION_TAG = "0"
 SESSION_DURATION = "7d"
 DEPLOY_TARGET = "cloudflare"
